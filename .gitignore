@@ -1,0 +1,6 @@
+__pycache__
+*.py[aoc]
+*.zip
+omniglot_resized/
+
+__MACOSX
